@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Side Panel",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "sidepanel.html",
+    "default_icon": "hello_extensions.png"
+  },
+  "permissions": [
+    "sidePanel"
+  ],
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  }
+}
+
+
+
+
